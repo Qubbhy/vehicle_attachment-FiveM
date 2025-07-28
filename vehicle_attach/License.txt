@@ -1,0 +1,19 @@
+Open Source License — 2025
+
+Author: Qubbhy
+
+This software is released under an open source license with the following terms:
+
+Permissions:
+- Use it in both non-commercial and commercial projects.
+- Edit, modify, or build upon it in any way.
+- Include it in larger script packs or frameworks or redistribute it as modified.
+- Redistribute it, either as-is or modified.
+- Use it in private, public, or monetized FiveM servers.
+
+There are no restrictions on how this script may be used or shared.
+
+Attribution to the original author is appreciated but not required.
+
+Warranty:
+This software is provided "as-is" with no warranty or guarantee. The author assumes no responsibility for any damages or issues that may arise from its use.
